@@ -14,6 +14,7 @@ test-int128
 test-iov
 test-mul64
 test-opts-visitor
+test-qapi-event.h
 test-qapi-types.[ch]
 test-qapi-visit.[ch]
 test-qdev-global-props
@@ -34,3 +35,4 @@ test-x86-cpuid
 test-xbzrle
 *-test
 qapi-schema/*.test.*
+qemu-iotests/common.env
